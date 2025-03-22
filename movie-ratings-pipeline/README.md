@@ -8,7 +8,7 @@ This project demonstrates a full end-to-end big data streaming pipeline built us
 - **Vagrant + Docker Compose** – for reproducible deployment of the data infrastructure
 
 > Developed as part of the *Large Scale Data Management* course @ AUEB (Athens University of Economics and Business)  
-> Author: **Kalem Keridis**
+> Author: **Kalemkeridis Evangelos Rafail**
 
 ---
 
